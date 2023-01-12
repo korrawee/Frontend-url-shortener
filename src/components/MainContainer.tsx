@@ -1,4 +1,3 @@
-import { AnyCnameRecord } from 'dns';
 import React from 'react';
 
 const MainContainer: React.FunctionComponent<any> = (props) => {
