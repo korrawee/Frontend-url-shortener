@@ -1,4 +1,3 @@
-import './App.css';
 import HeroSection from './components/HeroSection';
 import MainContainer from './components/MainContainer';
 
