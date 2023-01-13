@@ -4,7 +4,7 @@ interface craeteUrlRes {
 
 
 export async function createUrl(url: string): Promise<string> {
-    const res: Response = await fetch('http://shorturl/', {
+    const res: Response = await fetch('http://localhost/', {
         method: 'POST',
         headers: {
         'Accept': 'application/json',
